@@ -1,5 +1,5 @@
 <html>
-  <head><title>Cronky Heroku Test</title>
+  <head><title>Cronky Heroku Sandbox</title>
   </head>
   <body><?php
 print "Heroku World :-) This is only a test!";
