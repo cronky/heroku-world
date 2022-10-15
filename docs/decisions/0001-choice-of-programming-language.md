@@ -12,6 +12,7 @@ What programming language to use to test Heroku?
 * Java
 * .Net
 * PHP
+* Python
 
 ## Decision Outcome
 
